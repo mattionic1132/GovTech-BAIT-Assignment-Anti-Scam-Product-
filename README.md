@@ -4,3 +4,4 @@ A comprehensive data science project that analyses the Employment Scam Aegean Da
 Structure: 
 - Slides for Submission is found under GovTech 2026 BAIT Assignment PDF
 - Finalised code found in govtech_assignment.ipynb
+- job_postings raw dataset is too large and thus compressed to ZIP
